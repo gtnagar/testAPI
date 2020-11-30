@@ -5,8 +5,8 @@
       "code": "1", 
       "name": "Aircon",
       "variations": [
-        "variation":"default",
-        "thumbnail":"https://d2j6dbq0eux0bg.cloudfront.net/images/7628677/940863961.jpg",
+        "variation": "default",
+        "thumbnail": "https://d2j6dbq0eux0bg.cloudfront.net/images/7628677/940863961.jpg",
         "cost": "10000",
         "price": "12000",
         "avg_rating": "4.7",
@@ -20,8 +20,8 @@
       "code": "2",
       "name": "Shoes",
       "variations": [
-        "variation":"default",
-        "thumbnail":"https://m.media-amazon.com/images/I/41Leu3gBUFL.jpg" 
+        "variation": "default",
+        "thumbnail": "https://m.media-amazon.com/images/I/41Leu3gBUFL.jpg" 
         "cost": "500",
         "price": "900",
         "avg_rating": "4.8",
@@ -35,8 +35,8 @@
       "Code": "3", 
       "Name": "Phone",
       "variations": [
-        "variation":"default",
-        "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/3/34/Nokia_3310_3G_%2820180116%29.jpg"
+        "variation": "default",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/34/Nokia_3310_3G_%2820180116%29.jpg"
         "cost": "10000",
         "price": "12000",
         "avg_rating": "4.7",

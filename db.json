@@ -10,7 +10,7 @@
         "cost": "10000",
         "price": "12000",
         "avg_rating": "4.7",
-        "stock": "20"
+        "stock": "20",
         "is_available": true,
         "details": ""
       ]
@@ -25,7 +25,7 @@
         "cost": "500",
         "price": "900",
         "avg_rating": "4.8",
-        "stock": "40"
+        "stock": "40",
         "is_available": true,
         "details": ""
         ]
@@ -40,7 +40,7 @@
         "cost": "10000",
         "price": "12000",
         "avg_rating": "4.7",
-        "stock": "50"
+        "stock": "50",
         "is_available": true,
         "details": ""
         ]

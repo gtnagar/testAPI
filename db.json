@@ -52,5 +52,18 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "seller": [
+    {
+      "id": "1",
+      "name": "SuperMarket Mall",
+      "address": "74 Block Way Apt. 681",
+      "barangay": "Poblacion",
+      "city": "San Carlos",
+      "province": "Compostela Valley",
+      "positivity_rating": "96.78",
+      "sold_products": "1230",
+      "description" : "",
+    }
+  ]
 }

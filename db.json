@@ -1,49 +1,30 @@
 {
-  "products": [
-    { 
-      "id": 1, 
-      "code": "1", 
-      "name": "Aircon",
-      "variations": [
-        "variation": "default",
-        "thumbnail": "https://d2j6dbq0eux0bg.cloudfront.net/images/7628677/940863961.jpg",
-        "cost": "10000",
-        "price": "12000",
-        "avg_rating": "4.7",
-        "stock": "20",
-        "is_available": true,
-        "details": ""
-      ]
+ "seller": [
+    {
+      "id": 1,
+      "name": "SuperMarket Mall",
+      "email": "sample@domain.com",
+      "contact_no": "09123456789",
+      "address": "74 Block Way Apt. 681",
+      "barangay": "Poblacion",
+      "city": "San Carlos",
+      "province": "Compostela Valley",
+      "positivity_rating": "96.78",
+      "sold_products": "1230",
+      "description": "The best mall in our sitio"
     },
-    { 
-      "id": 2, 
-      "code": "2",
-      "name": "Shoes",
-      "variations": [
-        "variation": "default",
-        "thumbnail": "https://m.media-amazon.com/images/I/41Leu3gBUFL.jpg" 
-        "cost": "500",
-        "price": "900",
-        "avg_rating": "4.8",
-        "stock": "40",
-        "is_available": true,
-        "details": ""
-        ]
-    },
-    { 
-      "id": 3, 
-      "Code": "3", 
-      "Name": "Phone",
-      "variations": [
-        "variation": "default",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/34/Nokia_3310_3G_%2820180116%29.jpg"
-        "cost": "10000",
-        "price": "12000",
-        "avg_rating": "4.7",
-        "stock": "50",
-        "is_available": true,
-        "details": ""
-        ]
+    {
+      "id": 2,
+      "name": "SuperMarket Mall",
+      "email": "sample@domain.com",
+      "contact_no" : "09123456789",
+      "address": "74 Block Way Apt. 681",
+      "barangay": "Poblacion",
+      "city": "San Carlos",
+      "province": "Compostela Valley",
+      "positivity_rating": "96.78",
+      "sold_products": "1230",
+      "description": "The best mall in our sitio"
     }
   ],
   "comments": [

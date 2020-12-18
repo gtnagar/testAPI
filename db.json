@@ -57,20 +57,20 @@
     {
       "id": 1,
       "name": "SuperMarket Mall",
-      "email" : "sample@domain.com",
-      "contact_no" : "09123456789",
+      "email": "sample@domain.com",
+      "contact_no": "09123456789",
       "address": "74 Block Way Apt. 681",
       "barangay": "Poblacion",
       "city": "San Carlos",
       "province": "Compostela Valley",
       "positivity_rating": "96.78",
       "sold_products": "1230",
-      "description" : "The best mall in our sitio"
+      "description": "The best mall in our sitio"
     },
     {
       "id": 2,
       "name": "SuperMarket Mall",
-      "email" : "sample@domain.com",
+      "email": "sample@domain.com",
       "contact_no" : "09123456789",
       "address": "74 Block Way Apt. 681",
       "barangay": "Poblacion",
@@ -78,7 +78,7 @@
       "province": "Compostela Valley",
       "positivity_rating": "96.78",
       "sold_products": "1230",
-      "description" : "The best mall in our sitio"
+      "description": "The best mall in our sitio"
     }
   ]
 }

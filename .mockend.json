@@ -1,9 +1,11 @@
 {
- "current": "0.0.5",
- "enabled":false,
- "msg":{
-  "title": "App update available",
-  "msg": "Please update to the latest version to continue using it.",
-  "btn": "Download"
+ "update":{
+  "current": "0.0.5",
+  "enabled":false,
+  "msg":{
+   "title": "App update available",
+   "msg": "Please update to the latest version to continue using it.",
+   "btn": "Download"
+  }
  }
 }

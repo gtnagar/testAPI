@@ -1,37 +1,9 @@
 {
- "seller": [
-    {
-      "id": 1,
-      "name": "SuperMarket Mall",
-      "email": "sample@domain.com",
-      "contact_no": "09123456789",
-      "address": "74 Block Way Apt. 681",
-      "barangay": "Poblacion",
-      "city": "San Carlos",
-      "province": "Compostela Valley",
-      "positivity_rating": "96.78",
-      "sold_products": "1230",
-      "description": "The best mall in our sitio"
-    },
-    {
-      "id": 2,
-      "name": "SuperMarket Mall",
-      "email": "sample@domain.com",
-      "contact_no" : "09123456789",
-      "address": "74 Block Way Apt. 681",
-      "barangay": "Poblacion",
-      "city": "San Carlos",
-      "province": "Compostela Valley",
-      "positivity_rating": "96.78",
-      "sold_products": "1230",
-      "description": "The best mall in our sitio"
-    }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+ "current": "0.0.5",
+ "enabled":false,
+ "msg":{
+  "title": "App update available",
+  "msg": "Please update to the latest version to continue using it.",
+  "btn": "Download"
+ }
 }

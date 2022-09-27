@@ -1,11 +1,11 @@
 {
  "Update":{
-  "current": "0.0.5",
-  "enabled":false,
+  "current":{"string":["0.0.6"]},
+  "enabled":{"boolean":[false]},
   "msg":{
-   "title": "App update available",
-   "msg": "Please update to the latest version to continue using it.",
-   "btn": "Download"
+   "title": {"string":["App update available"]},
+   "msg": {"string":["Please update to the latest version to continue using it."]} ,
+   "btn": {"string":["Download"]}
   }
  }
 }

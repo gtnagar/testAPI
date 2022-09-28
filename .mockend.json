@@ -1,6 +1,6 @@
 {
  "Update":{
-  "current":{"string":["1.2.1"]},
+  "current":{"string":["1.2.2"]},
   "title": {"string":["App update available"]},
   "msg": {"string":["Please update to the latest version to continue using it."]} ,
   "btn": {"string":["Download"]}
